@@ -1,0 +1,17 @@
+element.style{
+}
+
+html.translated-ltr {
+}
+
+html[Estilo de atributos] {
+    -webkit-locale: "es";
+}
+hoja de estilo de user-agent
+:root {
+    view-transition-name: root;
+}
+hoja de estilo de user-agent
+html {
+    display: block;
+}
